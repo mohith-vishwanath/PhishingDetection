@@ -1,8 +1,4 @@
-import re
 import csv
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-
 
 text_file_path = "datasets/fradulent_emails.txt"
 
